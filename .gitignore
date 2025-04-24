@@ -2,3 +2,7 @@
 /static/.gitkeep
 *.sqlite3
 db.sqlite3
+
+# Ignorar o ambiente virtual e pasta de projeto obsoleta
+venv/
+wishlist_project/
